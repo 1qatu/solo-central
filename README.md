@@ -18,16 +18,13 @@ you can make your own link by doing the following.
 requires git!!!
 
 ```bash
-git clone https://github.com/qatual/central.git
+git clone https://github.com/1qatu/solo-central.git
  ```
 ```bash
-cd central
+cd solo-central
 ```
 
 its that easy!
 
-## Support
-
-discord.gg/solomath - the OFFICIAL AND ONLY SOLO CENTRAL DISCORD SERVER
 ##
 if you liked this, please star my repo :D
